@@ -8,7 +8,7 @@ The API supports full **CRUD** operations for users and thoughts, as well as fun
 
 
 ## 📹 Demo Video  
-👉 [Demo Video Link](https://app.screencastify.com/v2/watch/dfdknuAOF2Km2GsMfSPp)
+👉 [Demo Video Link](https://drive.google.com/file/d/1uQHypE4lU4sd5B_UPPGu7JaWhB7pJ-cK/view?usp=drive_link)
 
 ## 💡 User Story
 
